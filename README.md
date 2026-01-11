@@ -4,6 +4,5 @@ Football Gamble je jednoduchá fotbalová sázková hra vytvořená v C# .NET. H
 
 *Poznámka: Kód může působit méně profesionálně, protože je vytvořen začínajícím vývojářem (junior), ale plně funkční a dobře ilustruje herní logiku.
 
-
-https://github.com/user-attachments/assets/c9481867-9fd6-43c4-a364-540b0e28faa9
+https://github.com/user-attachments/assets/a89c397f-748d-4724-892b-09d0f97640c5
 
