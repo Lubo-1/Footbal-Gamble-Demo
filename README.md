@@ -4,8 +4,5 @@
 
 > **Poznámka:** Kód může působit méně profesionálně, protože je vytvořen začínajícím vývojářem (junior), ale je plně funkční a dobře ilustruje herní logiku.
 
-![Gameplay GIF](https://github.com/user-attachments/assets/576d9520-d4d1-4d62-8df0-244adea74fb4)
-
-
-
+https://github.com/user-attachments/assets/066070c1-99c6-4f87-ba41-53971b9c9dca
 
